@@ -16,6 +16,7 @@ class App extends Component {
                   <li>Апельсин</li>
                   <li>Банан</li>
                   <li>Киви</li>
+                  <li>Киви2</li>
               </ul>
           </div>
       </div>
